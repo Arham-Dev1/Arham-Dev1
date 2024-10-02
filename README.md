@@ -52,9 +52,7 @@ I thrive in dynamic environments where I can collaborate with cross-functional t
 
 ![Muhammad Awais' GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arham-Dev1&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arham-Dev1&layout=compact&theme=radical)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arham-Dev1&hide=html&layout=compact&langs_count=8&theme=radical)
 
 ## 💡 Let's Collaborate!
 
