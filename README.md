@@ -48,9 +48,9 @@ I thrive in dynamic environments where I can collaborate with cross-functional t
 
 ## 📊 GitHub Stats
 
-![Muhammad Awais' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arham-Dev1&show_icons=true&theme=radical)
+![Arham Zahid' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arham-Dev1&show_icons=true&theme=radical)
 
-![Muhammad Awais' GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arham-Dev1&theme=radical)
+![Arham Zahid' GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arham-Dev1&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arham-Dev1&hide=html&layout=compact&langs_count=8&theme=radical)
 
