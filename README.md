@@ -62,7 +62,7 @@ I'm always open to new opportunities and exciting projects! If you're looking fo
 
 <a href="mailto:arhamzahid.dev@gmail.com" target="_blank" rel="noreferrer"><img height="40" width="40" src="https://skillicons.dev/icons?i=gmail"></a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/arhamzahid-dev/" target="_blank" rel="noreferrer"><img height="40" width="40" src="https://skillicons.dev/icons?i=linkedin"></a>
+<a href="https://www.linkedin.com/in/arham-dev1/" target="_blank" rel="noreferrer"><img height="40" width="40" src="https://skillicons.dev/icons?i=linkedin"></a>
 
 </p>
 
