@@ -25,7 +25,7 @@ I thrive in dynamic environments where I can collaborate with cross-functional t
 
 ### **Languages & Frameworks**
 
-- JavaScript | TypeScript | Node.js | React.js | Nest.js | Express.js
+- JavaScript | TypeScript | React.js | Next.js | Node.js | Nest.js | Express.js
 - Prisma | Sequelize
 - PostgreSQL | MongoDB | Mongoose
 - RESTful APIs | GraphQL
