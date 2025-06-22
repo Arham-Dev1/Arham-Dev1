@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 <p>
-I'm Arham Zahid, a Full Stack Developer with around 4 years of hands-on experience building and optimizing web applications. My expertise lies in developing scalable, high-performance solutions using cutting-edge technologies like <strong>React</strong>, <strong>Node.js</strong>, <strong>PostgreSQL</strong>, and <strong>AWS</strong>. I am passionate about solving problems, delivering clean, maintainable code, and contributing to the success of projects through technical innovation.
+I'm Naveed Asghar, a Full Stack Developer with around 4 years of hands-on experience building and optimizing web applications. My expertise lies in developing scalable, high-performance solutions using cutting-edge technologies like <strong>React</strong>, <strong>Node.js</strong>, <strong>PostgreSQL</strong>, and <strong>AWS</strong>. I am passionate about solving problems, delivering clean, maintainable code, and contributing to the success of projects through technical innovation.
 
 I thrive in dynamic environments where I can collaborate with cross-functional teams to design, develop, and deploy reliable systems that enhance user experiences and meet business goals.
 
@@ -48,11 +48,11 @@ I thrive in dynamic environments where I can collaborate with cross-functional t
 
 ## 📊 GitHub Stats
 
-![Arham Zahid' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arham-Dev1&show_icons=true&theme=radical&cache_buster=1)
+![Arham Zahid' GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveed-devcodes&show_icons=true&theme=radical&cache_buster=1)
 
-![Arham Zahid' GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arham-Dev1&theme=radical&cache_buster=1)
+![Arham Zahid' GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naveed-devcodes&theme=radical&cache_buster=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arham-Dev1&hide=html&layout=compact&langs_count=8&theme=radical&cache_buster=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveed-devcodes&hide=html&layout=compact&langs_count=8&theme=radical&cache_buster=1)
 
 ## 💡 Let's Collaborate!
 
@@ -60,7 +60,7 @@ I'm always open to new opportunities and exciting projects! If you're looking fo
 
 <p align="left">
 
-<a href="mailto:arhamzahid.dev@gmail.com" target="_blank" rel="noreferrer"><img height="40" width="40" src="https://skillicons.dev/icons?i=gmail"></a>
+<a href="mailto:naveed.dev1122@gmail.com" target="_blank" rel="noreferrer"><img height="40" width="40" src="https://skillicons.dev/icons?i=gmail"></a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/arham-dev1/" target="_blank" rel="noreferrer"><img height="40" width="40" src="https://skillicons.dev/icons?i=linkedin"></a>
 
